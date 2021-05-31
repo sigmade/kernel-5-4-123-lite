@@ -6,7 +6,7 @@ Disabled:
  - AMD Processors
  - and others drivers
 
-Only EXT4 filysystem
+Only EXT4 filesystem
 
 ![image](https://user-images.githubusercontent.com/55326490/120222251-7544ee00-c261-11eb-83e2-5cc959ab144d.png)
 
