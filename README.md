@@ -1,10 +1,10 @@
 # kernel-5-4-123-lite for Ubuntu 20.04 
 
 Disabled:
-  WI-FI
-  Sound Card
-  AMD Processors
-  and others drivers
+ - WI-FI
+ - Sound Card
+ - AMD Processors
+ - and others drivers
   
 git clone https://github.com/sigmade/kernel-5-4-123-lite.git
 
