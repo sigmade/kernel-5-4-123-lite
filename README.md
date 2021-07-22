@@ -1,4 +1,4 @@
-# Linux Kernel-5-4-123-sigmade (lite configuration) for Ubuntu 20.04 
+# Linux Kernel-5-4-123-sigmade (lite configuration) for Ubuntu Server 20.04 
 
 Disabled:
  - WI-FI
